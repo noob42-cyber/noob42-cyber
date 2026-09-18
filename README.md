@@ -1,1 +1,1 @@
-![Noob Cybersecurity Banner](assest/banner.png)
+![Noob Cybersecurity Banner](assest/noob-banner-assembly.gif)
