@@ -11,6 +11,8 @@ ___
 
 I am currently building my foundation in cybersecurity, cryptography and computer science through practical problem solving and independent study.
 
+___
+
 ## Projects & Works
 
 ### CTF Learning 
@@ -24,3 +26,10 @@ A collection of CTF challenges and writeups documenting my analysis, problem-sol
 Small python implementation and experiments created while learning programming, cryptography and cybersecurity concepts.
 
  [View Scripts](https://github.com/noob42-cyber/Scripts)
+
+ ___
+
+ 
+
+
+
