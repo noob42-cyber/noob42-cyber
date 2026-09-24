@@ -19,7 +19,7 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/noob42-cyber">
-    <img src="https://github-readme-stats.vercel.app/api?username=noob42-cyber&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&bg_color=0d1117" alt="noob42-cyber's GitHub stats" >
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=noob42-cyber&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&bg_color=0d1117" alt="noob42-cyber's GitHub stats" >
   </img>
   </a>
   
