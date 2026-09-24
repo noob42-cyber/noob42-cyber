@@ -20,7 +20,7 @@
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/noob42-cyber">
-    <img src="https://github-readme-stats.vercel-extended.app/api?username=noob42-cyber&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff00&text_color=c9d1d9&icon_color=00ff00&bg_color=0d1117" alt="noob42-cyber's GitHub stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=noob42-cyber&show_icons=true&show=contributions,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&theme=dark_github" alt="noob42-cyber's GitHub stats" />
   </a>
   
   <!-- Top Languages Card -->
