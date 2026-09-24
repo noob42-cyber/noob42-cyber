@@ -18,10 +18,7 @@
   </a>
   
   <!-- Top Languages Card -->
-  <a href="https://github.com/noob42-cyber">
-    <img src="https://github-readme-stats.vercel-extended.app/api/top-langs/?username=noob42-cyber&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" > </img>
-  </a>
-</div>
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=noob42-cyber&layout=donut-vertical&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut-vertical&langs_count=4&theme=dark_github)
 
 <br>
 
