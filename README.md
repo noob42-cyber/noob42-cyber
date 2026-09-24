@@ -1,11 +1,5 @@
 ![Noob Cybersecurity Banner](assets/banner.gif)
 
-<div align="center">
-  <!-- Dynamic Waving Header Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Hello%20World!%20I'm%20Noob&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%26%20Cryptography%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" > </img>
-</div>
-
-<br>
 
 <div align="center">
   <!-- Typing Animation Image -->
@@ -25,7 +19,7 @@
   
   <!-- Top Languages Card -->
   <a href="https://github.com/noob42-cyber">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob42-cyber&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" > </img>
+    <img src="https://github-readme-stats.vercel-extended.app/api/top-langs/?username=noob42-cyber&layout=compact&theme=tokyonight&hide_border=true&title_color=00ff00&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" > </img>
   </a>
 </div>
 
