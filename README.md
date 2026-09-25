@@ -8,7 +8,7 @@ ___
 <div align="center">
   <!-- Typing Animation Image -->
   <a href="https://github.com/noob42-cyber">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Cryptography+Explorer;Always+Learning;I use Kali btw" alt="Typing SVG" >
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast;Cryptography+Explorer;Always+Learning;I+use+Kali+btw" alt="Typing SVG" >
   </a>
 </div>
 
