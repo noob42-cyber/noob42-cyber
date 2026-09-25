@@ -1,4 +1,13 @@
+# Hi,I am Noob
+ **CyberSecurity and Cryptography Enthusiast**
+
+
+
 ![Noob Cybersecurity Banner](assets/banner.gif)
+
+___
+
+## Hello World
 
 
 <div align="center">
@@ -6,7 +15,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=header&reversal=false&text=Hello+World&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Header Banner" />
 </div>
 
-<br/>
+<br>
+
+___
+
+## About Me 
 
 <div align="center">
   <!-- Typing Animation Image -->
@@ -16,6 +29,8 @@
 </div>
 
 <br/>
+
+## My activity 
 
 <div align="center">
   <!-- GitHub Stats Card -->
