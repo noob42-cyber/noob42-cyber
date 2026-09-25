@@ -1,12 +1,6 @@
 # Hi,I am Noob
  **CyberSecurity and Cryptography Enthusiast**
 
-
-
-![Noob Cybersecurity Banner](assets/banner.gif)
-
-
-
 ___
 
 ## About Me 
