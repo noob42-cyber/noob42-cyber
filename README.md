@@ -18,7 +18,9 @@ ___
   </a>
 </div>
 
-<br/>
+<br>
+
+___
 
 ## My activity 
 <div align = "center">
